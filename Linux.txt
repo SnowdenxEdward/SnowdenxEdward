@@ -1,0 +1,70 @@
+# Basic Linux Commands for Developers
+
+# File and Directory Management
+ls          # List directory contents
+cd          # Change directory
+pwd         # Print working directory
+mkdir       # Make directories
+rmdir       # Remove empty directories
+rm          # Remove files or directories
+cp          # Copy files and directories
+mv          # Move/rename files and directories
+touch       # Create an empty file or update the timestamp of a file
+cat         # Concatenate and display file content
+less        # View file content one screen at a time
+head        # Output the first part of files
+tail        # Output the last part of files
+
+# File Permissions
+chmod       # Change file modes or Access Control Lists
+chown       # Change file owner and group
+chgrp       # Change group ownership
+
+# Process Management
+ps          # Report a snapshot of current processes
+top         # Display Linux tasks
+kill        # Send a signal to a process
+killall     # Kill processes by name
+bg          # Resume a suspended job in the background
+fg          # Bring a job to the foreground
+
+# Networking
+ping        # Send ICMP ECHO_REQUEST to network hosts
+ifconfig    # Configure a network interface
+netstat     # Print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships
+ssh         # OpenSSH SSH client (remote login program)
+scp         # Secure copy (remote file copy program)
+wget        # The non-interactive network downloader
+curl        # Transfer data from or to a server
+
+# Package Management (Debian-based)
+apt-get     # APT package handling utility
+apt-cache   # Query the APT cache
+
+# Package Management (Red Hat-based)
+yum         # Package manager for RPM-based distributions
+rpm         # RPM package manager
+
+# Disk Usage
+df          # Report file system disk space usage
+du          # Estimate file space usage
+
+# Text Processing
+grep        # Print lines matching a pattern
+sed         # Stream editor for filtering and transforming text
+awk         # Pattern scanning and processing language
+
+# Version Control
+git         # Distributed version control system
+
+# System Information
+uname       # Print system information
+uptime      # Tell how long the system has been running
+dmesg       # Print or control the kernel ring buffer
+free        # Display amount of free and used memory in the system
+
+# Miscellaneous
+man         # An interface to the system reference manuals
+echo        # Display a line of text
+history     # Command History
+alias       # Create an alias for a command
