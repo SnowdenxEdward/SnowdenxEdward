@@ -12,7 +12,7 @@ I'm a passionate developer based in California, focused on building innovative s
 
 ### 🧑‍💻 Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python, Node.js
+- **Backend**:  Node.js
 - **Tools**: Linux, Git, VSCode
 
 ### 📫 How to Reach Me
